@@ -13,7 +13,7 @@ Sharing is caring! Here are some tips / instructions to add your prayer to this 
 
 ### One-time set-up: ###
 
-1. Create a Github account and install the Github app
+1. Create a Github account and install the Github app (https://desktop.github.com/)
 2. Clone this repository to your computer. Typically the folder will be saved under your C:\ drive
 
 ### Adding (“committing”) a prayer to this repo: ###
@@ -25,8 +25,8 @@ Sharing is caring! Here are some tips / instructions to add your prayer to this 
 5. Submit a pull request. 
 
 ### Repo Structure ###
-Year 
-— prayer.txt
+- Year
+-- prayer.txt
 
 ### Suggested naming format ###
 <Prayer_Topic>_<Occasion>_<Day_ifApplicable>
